@@ -37,7 +37,7 @@ export default function Resume() {
 
   const handleDownload = (e?: any) => {
     if (e) e.preventDefault()
-    const downloadUrl = `https://drive.google.com/uc?export=download&id=1gdRFHgz8Gf-LQceTj-SWKKxKqFgmB5Zj`
+    const downloadUrl = `https://drive.google.com/file/d/1RMytRbQ3bmPhj4NILFzdDWtVpsZoM41s/view?usp=drive_link`
     const a = document.createElement('a')
     a.href = downloadUrl
     a.target = '_blank'
