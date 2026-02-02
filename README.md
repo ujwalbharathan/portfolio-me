@@ -18,27 +18,18 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Project Structure
+# Technologies Used ✅
 
-```
-portfolio-me/
-├── app/
-│   ├── layout.tsx       # Root layout
-│   └── page.tsx         # Home page
-├── components/
-│   ├── About.tsx        # About section
-│   ├── Blog.tsx         # Blog section
-│   ├── Contact.tsx      # Contact section
-│   ├── Navbar.tsx       # Navigation bar
-│   ├── Portfolio.tsx   # Portfolio section
-│   ├── Resume.tsx       # Resume section
-│   └── Sidebar.tsx      # Sidebar component
-├── public/
-│   └── images/          # Static images
-├── styles/
-│   └── globals.css      # Global styles
-└── package.json
-```
+This project uses the following technologies:
+
+- **Next.js** (v14)
+- **React** (v18)
+- **TypeScript**
+- **HTML5 & CSS3** (global CSS)
+- **Node.js & npm**
+
+That's it minimal stack focused on a fast, type-safe React + Next.js portfolio.
+
 
 ## Build
 
@@ -53,3 +44,4 @@ To start the production server:
 ```bash
 npm start
 ```
+
