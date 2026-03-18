@@ -12,7 +12,7 @@ export default function Resume() {
   const experience = [
     {
       title: "React Developer",
-      period: "April 2024 — Present",
+      period: "April 2024 — Feb 2026",
       text: "GROWTHPLUG, Kochi, Kerala. Developed responsive and accessible user interfaces using React.js and JavaScript. Enhanced legacy website builder with drag-and-drop functionality. Optimized website performance, boosting Lighthouse score to over 90. Built website migration tool for WordPress. Developed responsive chatbot application with WebSocket-based real-time communication.",
     },
     {
